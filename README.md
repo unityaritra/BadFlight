@@ -10,7 +10,7 @@ Strictly for fun. Quite an experimental and non-recommended way to do a flight s
 
 Simulation controls:
 **Keyboard:**
-Q/E : Yaw
-A/D : Roll
-Up / Down: Pitch
-Hold W : Throttle
+1. Q/E : Yaw
+2. A/D : Roll
+3. Up / Down: Pitch
+4. Hold W : Throttle
