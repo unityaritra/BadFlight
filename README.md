@@ -15,3 +15,5 @@ Simulation controls
 2. A/D : Roll
 3. Up / Down: Pitch
 4. Hold W : Throttle
+
+*Note: Please do not run the executable as it is not a final build. Make sure to run the game within the Unity (https://unity.com/) editor.*
