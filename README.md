@@ -2,6 +2,7 @@
 Strictly for fun. Quite an experimental and non-recommended way to do a flight simulator in Unity.
 
 **Please download the preview project files from the following Google Drive link before the project is ready for maintenence commits.**
+**Download:** http://bit.ly/38SHDop
 
 **Asset Credits:**
 1. Super Spit Fire: https://assetstore.unity.com/packages/3d/vehicles/air/super-spitfire-53217
